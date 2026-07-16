@@ -159,7 +159,7 @@ Computer Science Engineering Student | Machine Learning & Data Analytics Enthusi
 
 💻 **GitHub:** https://github.com/ganavi0929
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/ganavi-s/
+🔗 **LinkedIn:** https://www.linkedin.com/in/ganavi-s-03b0262a6 
 
 📜 License
 
